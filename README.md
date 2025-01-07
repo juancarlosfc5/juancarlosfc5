@@ -8,7 +8,7 @@
 
 <p align="center">
   🌱 I’m currently learning <strong>JavaScript</strong> <br>
-  💬 Ask me about <strong>Python, HTML, and CSS</strong>  <br>
+  💬 Ask me about <strong>Python, HTML and CSS</strong>  <br>
   📫 How to reach me: <strong>juanfc.iq@gmail.com</strong>
 </p>
 
